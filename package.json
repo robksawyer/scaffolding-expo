@@ -1,6 +1,6 @@
 {
   "name": "scaffolding-expo",
-  "version": "2.0.4",
+  "version": "1.0.0",
   "description": "Templates that aid in the development of expo applications.",
   "main": "index.js",
   "scripts": {
